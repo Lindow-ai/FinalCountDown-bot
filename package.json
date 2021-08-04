@@ -1,0 +1,22 @@
+{
+  "name": "finalcountdown-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lindow-ai/FinalCountDown-bot.git"
+  },
+  "author": "Lindow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lindow-ai/FinalCountDown-bot/issues"
+  },
+  "homepage": "https://github.com/Lindow-ai/FinalCountDown-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
